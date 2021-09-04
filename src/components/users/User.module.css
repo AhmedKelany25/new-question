@@ -1,0 +1,27 @@
+.back{
+    padding: 15px 25px;
+    background-color: rgb(8, 125, 235);
+    border: none;
+    color: #fff;
+    text-decoration: none;
+    margin-bottom: 30px;
+}
+.back:hover{
+    color: #fff;
+    text-decoration: none;
+    
+}
+.addanswer{
+    margin-top: 80px;
+}
+.answer{
+    border-bottom: 3px solid #ddd;
+    display: flex;
+    margin-bottom: 11px;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.answer_text{
+    font-size: 23px;
+    font-weight: 400;}

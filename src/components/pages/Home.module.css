@@ -1,0 +1,16 @@
+.add{
+    float: right;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    padding: 10px 20px;
+    text-decoration: none;
+    
+}
+
+.title{
+    max-width: 500px;
+    overflow-wrap: break-word;
+}
+.action{
+    width: 230px;
+}

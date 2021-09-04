@@ -1,0 +1,140 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "title": "what's your favourit book?"
+    },
+    {
+      "id": 2,
+      "title": "do yo like travel a lot?"
+    },
+    {
+      "id": 3,
+      "title": "what's your name"
+    },
+    {
+      "id": 4,
+      "title": "where do you live?"
+    },
+    {
+      "id": 5,
+      "title": "how old are you?"
+    },
+    {
+      "id": 6,
+      "title": "Do you like fruits?"
+    }
+  ],
+  "answers": [
+    {
+      "id": 1,
+      "body": "1984, by George Orwell",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "Pride and Prejudice, by Jane Austen",
+      "postId": 1
+    },
+    {
+      "id": 3,
+      "body": "The Diary Of A Young Girl, by Anne Frank",
+      "postId": 1
+    },
+    {
+      "id": 4,
+      "body": "The Great Gatsby",
+      "postId": 1
+    },
+    {
+      "id": 5,
+      "body": "Harry Potter and the Philosopher's Stone, by J.K. Rowling",
+      "postId": 1
+    },
+    {
+      "id": 6,
+      "body": "yes I like travel",
+      "postId": 2
+    },
+    {
+      "id": 7,
+      "body": "no I don't like travel",
+      "postId": 2
+    },
+    {
+      "id": 8,
+      "body": "travel!! yes of course",
+      "postId": 2
+    },
+    {
+      "id": 9,
+      "body": "my name is ahmed",
+      "postId": 3
+    },
+    {
+      "id": 10,
+      "body": "kamel is my name",
+      "postId": 3
+    },
+    {
+      "id": 11,
+      "body": "moahmel",
+      "postId": 3
+    },
+    {
+      "id": 12,
+      "body": "asser",
+      "postId": 3
+    },
+    {
+      "id": 13,
+      "body": "I'm hazem",
+      "postId": 3
+    },
+    {
+      "id": 14,
+      "body": "ali",
+      "postId": 3
+    },
+    {
+      "id": 15,
+      "body": "I live in Cairo",
+      "postId": 4
+    },
+    {
+      "id": 16,
+      "body": "giza ",
+      "postId": 4
+    },
+    {
+      "id": 17,
+      "body": "I'm 25 years old",
+      "postId": 5
+    },
+    {
+      "id": 18,
+      "body": "my age is 20",
+      "postId": 5
+    },
+    {
+      "id": 19,
+      "body": "I don't remember",
+      "postId": 5
+    },
+    {
+      "id": 20,
+      "body": "yes of course",
+      "postId": 6
+    },
+    {
+      "id": 21,
+      "body": "no not so much",
+      "postId": 6
+    },
+    {
+      "id": 22,
+      "body": "yes",
+      "postId": 6
+    }
+  ]
+}
